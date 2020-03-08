@@ -1,5 +1,5 @@
 # C_Music_Player
-The projects implements a music player using C programming language and Doubly linked list data structure and and uses functions from SDL_mixer header file. It allows users to add music files via their absolute path and adds the same to a playlist. 
+The projects implements a music player using C programming language, Doubly linked list data structure and functions from SDL_mixer header file. It allows users to add music files via their absolute path and adds the same to a playlist. 
 ### Upon adding a song to the playlist the players allows you to
 1. Play the song
 2. Pause the song
